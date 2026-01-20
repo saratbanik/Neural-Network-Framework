@@ -45,4 +45,4 @@ The project emphasizes **clarity, modular design, and object-oriented programmin
   - Backpropagation Algorithm  
   - Gradient Descent  
 
-![image](https://github.com/saratbanik/Neural-Network-Framework/blob/main/img/Screenshot%202026-01-19%20103811.png)
+![image](https://github.com/saratbanik/Neural-Network-Framework/blob/main/img/Preview.png)
