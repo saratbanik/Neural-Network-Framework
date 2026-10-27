@@ -47,3 +47,10 @@ The project emphasizes **clarity, modular design, and object-oriented programmin
 
 ## Preview
 ![image](https://github.com/saratbanik/Neural-Network-Framework/blob/main/img/Preview.png)
+---
+
+<div align="center">
+
+**Developed by [SARAT BANIK](https://www.linkedin.com/in/saratbanik)**
+
+</div>
